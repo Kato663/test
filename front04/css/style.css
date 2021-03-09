@@ -1,0 +1,10 @@
+/* 課題４　css */
+@charset "UTF-8";
+.mini{
+  font-size: 50%;
+}
+
+.list{
+  float:left;
+  width:200px;
+}

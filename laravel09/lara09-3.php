@@ -14,4 +14,4 @@
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('XXX', 'bbb\AAAController@add');
+Route::get('XXX', 'admin\AAAController@bbb');
